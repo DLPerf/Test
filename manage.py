@@ -3,7 +3,7 @@
 import os
 import sys
 # 新的修改
-
+# 第二次修改
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'CISearch.settings')
